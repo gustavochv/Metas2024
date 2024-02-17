@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(30, 48, 24);
+    color: rgb(109, 241, 9);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    text-align: center;
+}
+.botão{
+    background-color: rgb(49, 65, 183);
+    font-size: 40px;
+    border-radius: 10px;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+
+
+
+}
